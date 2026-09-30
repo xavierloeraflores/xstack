@@ -1,0 +1,6 @@
+interface:
+  display_name: "Set up Jev Issue Labeler"
+  short_description: "Add Jev issue labeling to a GitHub repository"
+
+policy:
+  allow_implicit_invocation: false
